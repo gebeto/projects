@@ -2,7 +2,7 @@
 order: 2
 title: Telegram Charts
 date: "2015-05-28T22:40:32.169Z"
-description: Lightweight, fully functional charts library. Project was created for Telegram Charts contest.
+description: Lightweight, fully functional charts library
 link: https://gebeto.github.io/telegram-charts
 image: ./charts.png
 size: half

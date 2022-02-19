@@ -2,7 +2,7 @@
 order: 1
 title: Todosh
 date: "2015-05-06T23:46:37.121Z"
-description: Shopping list app! Integrated with Microsoft ToDo.
+description: Shopping list app integrated with Microsoft ToDo
 link: https://todosh.github.io
 size: full
 image: ./todosh.png
